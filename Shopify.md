@@ -2,7 +2,7 @@
 ## Shopify Developer & E-commerce Specialist
 
 📍 Lagos, Nigeria | 🌐 Open to Remote & Sponsorship Opportunities  
-📧 ezihcollins100@gmail.com | 📱 +5233-41711739  
+📧 ezihcollins100@gmail.com | 📱 +2348065416156  
 🔗 [LinkedIn](https://linkedin.com/in/collinsezih) | 💻 [GitHub](https://github.com/Dflexcee)
 
 ---
@@ -41,7 +41,7 @@ Results-driven Shopify Developer with 5+ years of experience in e-commerce devel
 ### Work Experience
 
 #### Frontend Engineer (Internship)
-**W-4 Marketing Meet IT (Switzerland)** | *Jan 2023 - Present*
+**W-4 Marketing Meet IT (Switzerland)** | *match 2023 - Present*
 
 - Developed and optimized 7 Shopify storefronts, increasing average conversion rates by 24%
 - Implemented custom Liquid themes that reduced page load times by 35%
@@ -50,7 +50,7 @@ Results-driven Shopify Developer with 5+ years of experience in e-commerce devel
 - Collaborated with designers to implement responsive UX/UI enhancements
 
 #### Frontend Engineer (Part-Time)
-**Black Smith Agency (USA)** | *Aug 2022 - Present*
+**Black Smith Agency (USA)** | *Aug 2022 - 203*
 
 - Maintained and optimized 12+ Shopify stores, improving mobile performance scores by 40%
 - Created reusable Liquid snippets and sections for faster theme development
@@ -105,6 +105,7 @@ Results-driven Shopify Developer with 5+ years of experience in e-commerce devel
 - **Bachelor of Science in Computer Science** | *Aug 2009 - Dec 2014*
 - **Shopify Developer Mastery Course** | Udemy
 - **Advanced JavaScript & React Development** | Coursera
+- Microverse completed 1024 hours
 
 ---
 
